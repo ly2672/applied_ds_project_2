@@ -121,8 +121,10 @@ rsconnect::deployApp(
 - Dynamic data filtering
 
 ## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Alex Friedman – Led the whole project and worked on the main Shiny framework and app structure.
+- Liu Yang – Focused on data handling, cleaning, and transformations.
+- Anxin Yi – Designed the interactive visualizations and UI elements.
+- Thomas Bordino – Added feature engineering tools and some machine learning components.
 
 ## License
 
